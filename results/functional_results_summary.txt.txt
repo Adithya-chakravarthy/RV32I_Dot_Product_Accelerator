@@ -1,0 +1,25 @@
+Functional Verification Results
+
+N = 4:
+X = [5, 6, 7, 8]
+W = [1, 2, 3, 4]
+Expected result = 70
+Hardware result = 70
+Execution cycles = 4
+Status = Passed
+
+N = 8:
+X = [1, 2, 3, 4, 5, 6, 7, 8]
+W = [1, 1, 1, 1, 1, 1, 1, 1]
+Expected result = 36
+Hardware result = 36
+Execution cycles = 8
+Status = Passed
+
+N = 16:
+X = sixteen 1s
+W = sixteen 1s
+Expected result = 16
+Hardware result = 16
+Execution cycles = 16
+Status = Passed

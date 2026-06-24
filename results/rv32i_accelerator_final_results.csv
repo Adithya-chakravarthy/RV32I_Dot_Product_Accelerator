@@ -1,0 +1,4 @@
+Vector Length,Expected Result,Hardware Result,Cycles,Latency_ns,LUTs,FFs,DSP48E1,BRAM,IOB,Setup_WNS_ns,Hold_WHS_ns,Total_Power_W,Dynamic_Power_W,Static_Power_W
+N=4,70,70,4,80,588,746,1,0,38,7.631,0.113,0.074,0.004,0.07
+N=8,36,36,8,160,1028,1642,1,0,38,6.313,0.057,0.075,0.005,0.07
+N=16,16,16,16,320,1026,1674,1,0,38,5.569,0.069,0.075,0.005,0.07

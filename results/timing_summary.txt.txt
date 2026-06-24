@@ -1,0 +1,27 @@
+Timing Summary
+
+Clock period: 20 ns
+Frequency: 50 MHz
+Device: Xilinx Artix-7 xc7a35tcpg236-1
+Tool: Vivado 2025.2
+
+N = 4:
+WNS = +7.631 ns
+TNS = 0.000 ns
+WHS = +0.113 ns
+THS = 0.000 ns
+Timing status = Passed
+
+N = 8:
+WNS = +6.313 ns
+TNS = 0.000 ns
+WHS = +0.057 ns
+THS = 0.000 ns
+Timing status = Passed
+
+N = 16:
+WNS = +5.569 ns
+TNS = 0.000 ns
+WHS = +0.069 ns
+THS = 0.000 ns
+Timing status = Passed

@@ -1,0 +1,18 @@
+Latency Summary
+
+Clock frequency: 50 MHz
+Clock period: 20 ns
+
+N = 4:
+Execution cycles = 4
+Latency = 80 ns
+
+N = 8:
+Execution cycles = 8
+Latency = 160 ns
+
+N = 16:
+Execution cycles = 16
+Latency = 320 ns
+
+The accelerator performs one MAC operation per clock cycle. Therefore, execution latency increases linearly with the active vector length.

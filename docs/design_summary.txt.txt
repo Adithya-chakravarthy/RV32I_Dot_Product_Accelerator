@@ -1,0 +1,38 @@
+Design Summary
+
+This project implements an RV32I-controlled memory-mapped dot-product accelerator.
+
+Top module:
+rv32i_mm_ai_core
+
+Processor module:
+rv32i_single_cycle_mm
+
+Accelerator module:
+data_memory_accel
+
+Target FPGA:
+Xilinx Artix-7 xc7a35tcpg236-1
+
+Tool:
+Vivado 2025.2
+
+Clock:
+20 ns / 50 MHz
+
+Maximum vector length:
+16
+
+Supported active vector lengths evaluated:
+N = 4, N = 8, N = 16
+
+Memory-mapped registers:
+0x40 CTRL
+0x44 STATUS
+0x48 RESULT
+0x4C CYCLES
+0x50 VECTOR_LENGTH
+0x80–0xBC X memory
+0xC0–0xFC W memory
+
+The accelerator uses a sequential single-DSP48E1 MAC datapath and zero BRAM.

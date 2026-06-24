@@ -1,0 +1,25 @@
+FPGA Resource Utilization Summary
+
+Device: Xilinx Artix-7 xc7a35tcpg236-1
+Tool: Vivado 2025.2
+
+N = 4:
+LUTs = 588
+FFs = 746
+DSP48E1 = 1
+BRAM = 0
+IOB = 38
+
+N = 8:
+LUTs = 1028
+FFs = 1642
+DSP48E1 = 1
+BRAM = 0
+IOB = 38
+
+N = 16:
+LUTs = 1026
+FFs = 1674
+DSP48E1 = 1
+BRAM = 0
+IOB = 38

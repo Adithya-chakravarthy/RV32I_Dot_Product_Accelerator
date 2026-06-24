@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata from this file."
+title: "Lightweight RV32I-Based Dot-Product Accelerator for Edge-AI FPGA Systems"
+authors:
+  - family-names: "C"
+    given-names: "Adithya"
+date-released: 2026-06-22
+version: "1.0.0"
+repository-code: "https://github.com/YOUR_USERNAME/RV32I_Dot_Product_Accelerator"
+license: "MIT"
+keywords:
+  - RV32I
+  - RISC-V
+  - FPGA
+  - dot-product accelerator
+  - memory-mapped accelerator
+  - edge AI
+  - Verilog

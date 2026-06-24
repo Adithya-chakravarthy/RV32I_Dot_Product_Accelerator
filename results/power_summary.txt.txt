@@ -1,0 +1,21 @@
+Power Summary
+
+The reported power values are Vivado routed-stage vectorless estimates with low confidence and are not physical board-level power measurements.
+
+N = 4:
+Total power = 0.074 W
+Dynamic power = 0.004 W
+Static power = 0.070 W
+Confidence = Low
+
+N = 8:
+Total power = 0.075 W
+Dynamic power = 0.005 W
+Static power = 0.070 W
+Confidence = Low
+
+N = 16:
+Total power = 0.075 W
+Dynamic power = 0.005 W
+Static power = 0.070 W
+Confidence = Low
